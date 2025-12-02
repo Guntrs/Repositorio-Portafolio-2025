@@ -51,9 +51,19 @@ Cursos realizados:
 
 Ubicación: https://github.com/Guntrs/porfolio-data_analyst-gth
 
-------------------------------------------------------------------
-
+-----------------------------------------------------------------
 ## PROYECTO #4  
+
+WebPersonal
+  Tecnologias: 
+      -Django
+      -Python
+      -PaginaWeb en : html y css
+
+  Ubicacion: https://github.com/Guntrs/WebPersonal_Django
+
+-----------------------------------------------------------------
+## PROYECTO #5
 Sistema de Inventario (finalizado)
 
 Tecnologías:
@@ -80,7 +90,7 @@ Usuarios de prueba:
 
 ------------------------------------------------------------------
 
-## PROYECTO #5  
+## PROYECTO #6
 Página Informativa (finalizado)
 
 Tecnologías:
@@ -91,7 +101,7 @@ Tecnologías:
 
 Ubicación: https://www.artesaniasandrea.com/
 
-
+----------------------------------------------------------
 
 
 
