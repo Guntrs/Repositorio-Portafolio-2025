@@ -92,6 +92,8 @@ Usuarios de prueba:
   Sistema de Inventario + Facturacion:
    -ER ubicacion: https://app.moqups.com/wC0YyDCUT75G8FeceYzLJbhUd9JvqcMT/edit/page/ae5d75c45
 
+  ubicacion Estructura:  https://github.com/Guntrs/Sistema_Inventario
+
 ------------------------------------------------------------------
 
 ## PROYECTO #6
