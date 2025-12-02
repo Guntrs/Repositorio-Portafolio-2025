@@ -76,6 +76,8 @@ Tecnologías:
 
 Ubicación: https://www.masdataservices.com/
 
+Ubicacion Estructura:  https://github.com/Guntrs/Sistema_Inventario
+
 Usuarios de prueba:
 - Vendedor  
   - correo: perez@mail.com  
@@ -90,10 +92,9 @@ Usuarios de prueba:
   - pass: admin123
 
   Nueva Base de datos:
-  Sistema de Inventario + Facturacion:
    -ER ubicacion: https://app.moqups.com/wC0YyDCUT75G8FeceYzLJbhUd9JvqcMT/edit/page/ae5d75c45
 
-  ubicacion Estructura:  https://github.com/Guntrs/Sistema_Inventario
+  
 
 ------------------------------------------------------------------
 
