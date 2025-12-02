@@ -2,25 +2,100 @@
 Portafolio profesional 2025 con enlaces a mis proyectos: C#, Angular, HTML/CSS, análisis de datos, WordPress y Django. Contiene rutas a todos mis repositorios y demostraciones. paginas Web.
 
 
-# 👋 Hola, soy un Desarrollador en formación
-Apasionado por crear soluciones prácticas, limpias y funcionales.  
-Este repositorio es mi portafolio central donde muestro mis proyectos, habilidades y evolución profesional.
 
----
+-------- Proyectos Realizados y en Proceso -------------------
 
-## 🚀 Tecnologías y herramientas
-- **Lenguajes:** Python, JavaScript, C#, SQL  
-- **Frameworks:** Django, Angular, .NET  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Backend:** APIs REST, Odoo (básico – en aprendizaje)  
-- **Bases de datos:** PostgreSQL, SQLite, SQL Server  
-- **Otros:** Git, GitHub, Postman, WordPress
+Proyecto # 1 
+CRM Backend (en desarrollo)
+Tecnologias:
+          -Base de Datos: Postgre
+          -Backend:  .Net Version 8
+          -Diseño ER:  https://app.moqups.com/K2UWkG5PJjUjcRaue1gGa67eJipryZXM/edit/page/a8bfb0d3e
+          -Postman
+          -IDE de desarrollo: Rider
+          
+Ubicacion:  https://github.com/Guntrs/crm-app
+-------------------------------------------------------------
 
----
+Proyecto # 2
+CRM FronEnd (en desarrollo)
+Tecnologias: 
+          -IDE de desarollo: Visual Studio Code
+          -typescript
+          -Angular Version 18
+          -Plantilla a uitlizar: https://preview.themeforest.net/item/wowdash-angular-19-admin-dashboard-template-multipurpose/
 
-## 📂 Proyectos Destacados
+          
+Ubicacion: https://github.com/Guntrs/Angular_Crm
 
-### 🔹 **Proyecto 1 — (cambia este título)**
-**Descripción:** Breve descripción del proyecto.  
-**Repositorio:** https://github.com/tu_usuario/tu_repo  
-**Tecnologías:** Django / Angular / C# / etc.
+------------------------------------------------------------------
+
+Proyecto # 3
+Analisis de Datos  (en desarrollo)
+Tecnologias: 
+          -Excel
+          -SQL Postgre
+          -PowerBi
+          -Python
+
+    Cursos: 
+          -DataCamp : 
+                  -Introduccion SQL
+                  -SQL Intermedio
+                  -Introduccion Python
+          -Udemy:
+                -Experto en Análisis y Visualización de Datos
+                -Todo en Data Science y Machine Learning con Python
+                
+          
+Ubicacion: https://github.com/Guntrs/porfolio-data_analyst-gth
+
+------------------------------------------------------------------
+
+Proyecto # 4
+Sistema Inventario  (Finalizado)
+Tecnologias: 
+          - Base de datos: SQL Express
+          - BackEnd:   .Net Version 3
+          - FrontEnd:  VueJs Version 2
+          - Plantilla: Vuetify
+
+          - Hosting y dominio: Mochahost
+                    
+Ubicacion: https://www.masdataservices.com/
+
+          USUSARIOS: 
+            Vendedor
+                  correo: julio:perez@mail.com
+                    pass: admin1234
+
+           Almacen
+                correo:  julia@gmail.com
+                pass: almacen123
+
+
+        Administrador	
+              correo:  usuariotest@gmail.com
+              pass: admin123
+
+           
+------------------------------------------------------------------
+
+Proyecto # 5
+Pagina Informativa  (Finalizado)
+Tecnologias: 
+          - Wordpress
+          - Elementor
+          - Dominio Godady
+          - Hosting: Mochahost
+
+                    
+Ubicacion: https://www.artesaniasandrea.com/
+
+------------------------------------------------------------------
+
+
+
+
+
+
