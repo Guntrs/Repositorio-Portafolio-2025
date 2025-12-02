@@ -14,7 +14,8 @@ Tecnologías:
 - Postman  
 - IDE de desarrollo: Rider  
 
-Ubicación: https://github.com/Guntrs/crm-app
+Ubicación: https://github.com/Guntrs/crm-app/tree/develop
+    
 
 -----------------------------------------------------------------------------------------------
 
@@ -27,7 +28,7 @@ Tecnologías:
 - Angular 18  
 - Plantilla utilizada: https://preview.themeforest.net/item/wowdash-angular-19-admin-dashboard-template-multipurpose/
 
-Ubicación: https://github.com/Guntrs/Angular_Crm
+Ubicación: https://github.com/Guntrs/Angular_Crm/tree/develop
 
 ------------------------------------------------------------------
 
