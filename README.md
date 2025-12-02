@@ -1,11 +1,10 @@
 # Repositorio-Portafolio-2025
-Portafolio profesional 2025 con enlaces a mis proyectos:
+Portafolio profesional 2025 con enlaces a mis Proyectos Realizado y en Proceso:
 
 
 
--------- Proyectos Realizados y en Proceso -------------------
-
-Proyecto # 1 
+-----------------------------------------------------------------------------------------------
+PROYECTO  # 1 
 CRM Backend (en desarrollo)
 Tecnologias:
           -Base de Datos: Postgre
@@ -17,7 +16,9 @@ Tecnologias:
 Ubicacion:  https://github.com/Guntrs/crm-app
 
 
-Proyecto # 2
+-----------------------------------------------------------------------------------------------
+
+PROYECTO # 2
 CRM FronEnd (en desarrollo)
 Tecnologias: 
           -IDE de desarollo: Visual Studio Code
@@ -30,7 +31,7 @@ Ubicacion: https://github.com/Guntrs/Angular_Crm
 
 ------------------------------------------------------------------
 
-Proyecto # 3
+PROYECTO # 3
 Analisis de Datos  (en desarrollo)
 Tecnologias: 
           -Excel
@@ -52,7 +53,7 @@ Ubicacion: https://github.com/Guntrs/porfolio-data_analyst-gth
 
 ------------------------------------------------------------------
 
-Proyecto # 4
+PROYECTO # 4
 Sistema Inventario  (Finalizado)
 Tecnologias: 
           - Base de datos: SQL Express
@@ -81,7 +82,7 @@ Ubicacion: https://www.masdataservices.com/
            
 ------------------------------------------------------------------
 
-Proyecto # 5
+PROYECTO # 5
 Pagina Informativa  (Finalizado)
 Tecnologias: 
           - Wordpress
