@@ -78,7 +78,7 @@ Ubicación: https://www.masdataservices.com/
 
 Usuarios de prueba:
 - Vendedor  
-  - correo: julio.perez@mail.com  
+  - correo: perez@mail.com  
   - pass: admin1234
 
 - Almacén  
