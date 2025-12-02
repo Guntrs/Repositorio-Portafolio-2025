@@ -88,6 +88,9 @@ Usuarios de prueba:
 - Administrador  
   - correo: usuariotest@gmail.com  
   - pass: admin123
+ 
+  Sistema de Inventario + Facturacion:
+   -ER ubicacion: https://app.moqups.com/wC0YyDCUT75G8FeceYzLJbhUd9JvqcMT/edit/page/ae5d75c45
 
 ------------------------------------------------------------------
 
